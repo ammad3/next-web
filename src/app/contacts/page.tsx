@@ -1,10 +1,8 @@
-import Navbar from "@/components/Navbar";
+
+import Card from "@/components/Card"
 
 export default function contactsPage() {
   return (
-    <div className="bg-blue-500 text-white text-center py-20">
-      <h1 className="text-4xl font-bold">Contacts</h1>
-      <p className="mt-4 text-lg">Call - 92-3122XXXXX5</p>
-    </div>
+    <Card heading="Contact" paragraph="Phone: +92-300-111233444" />
   );
 }
