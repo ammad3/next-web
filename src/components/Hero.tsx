@@ -11,7 +11,7 @@ export default function Hero() {
         </div>
       </div>
       <h1 className="text-4xl font-bold">
-        Hi, I'm Ammad Sheikh – A Web Developer & Designer
+        Hi, I&apos;m Ammad Sheikh – A Web Developer & Designer
       </h1>
       <p className="mt-4 text-lg">
         Building Beautiful Websites and Creating Digital Experiences
