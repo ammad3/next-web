@@ -1,5 +1,3 @@
-import Navbar from "@/components/Navbar";
-
 export default function projectsPage() {
   return (
     <div className="bg-blue-500 text-white text-center py-20">
